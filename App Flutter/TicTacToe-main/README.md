@@ -20,8 +20,8 @@ A simple mobile game built with `Flutter`
 **2. Clone the repo**
 
 ```sh
-$ git clone https://github.com/SaiManojBotchu/TicTacToe.git
-$ cd TicTacToe/
+$ git clone https://github.com/Usama12-sajid/Thesis-Project.git
+$ cd App Flutter/TicTacToe-main/
 ```
 
 **3. Install dependencies**
